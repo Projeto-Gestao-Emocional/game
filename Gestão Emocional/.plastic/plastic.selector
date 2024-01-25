@@ -1,0 +1,4 @@
+repository "Gestão Emocional@filipeeduardo22@cloud"
+  path "/"
+    br "/main"
+    co "/main"
